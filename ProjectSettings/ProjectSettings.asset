@@ -977,11 +977,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 86b9c6a2-51b6-4bd6-b43e-f2dccf02b061
+  cloudProjectId: 46073ed1-62f5-47b4-a9c5-0cc1717fb9bf
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Bunny Hop
-  organizationId: wilayat148
+  projectName: BunnyHop
+  organizationId: unity_1034162
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

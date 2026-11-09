@@ -6531,7 +6531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leaderboardContent: {fileID: 1958499647}
   leaderboardItemPrefab: {fileID: 4156992230934951434, guid: 4886747316a65ad4783e5904097a6ba9, type: 3}
-  leaderboardId: Bunny_Hop_High_Score_Leaderboard
+  leaderboardId: BunnyHopLeaderboard
 --- !u!4 &1849579412
 Transform:
   m_ObjectHideFlags: 0
