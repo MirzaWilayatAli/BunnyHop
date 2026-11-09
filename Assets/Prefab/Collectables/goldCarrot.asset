@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24678fb91cd4ac3428f907bb1fdf42fb, type: 3}
+  m_Name: goldCarrot
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5397219830418621420, guid: 8def73ee670fde14fae6599e23d31fa2, type: 3}
+  spawnY: 0
+  isPowerUp: 0
+  powerUpEffect: 

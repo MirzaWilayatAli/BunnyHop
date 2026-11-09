@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24678fb91cd4ac3428f907bb1fdf42fb, type: 3}
+  m_Name: Cloud 6
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6686815157630276522, guid: d18928fc27abb184fb438478f20b0113, type: 3}
+  spawnY: 5.1
