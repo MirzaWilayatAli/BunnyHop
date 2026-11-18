@@ -3390,11 +3390,14 @@ MonoBehaviour:
     m_Bits: 8
   castParams: {x: 1, y: 0.52, z: 0.15}
   castOffset: {x: 0, y: 0.86, z: 0}
-  jumpForce: 18
-  slamForce: 20
+  jumpForce: 20
+  slamForce: 25
   isAlive: 1
   animator: {fileID: 1076891782}
   hasSlammed: 0
+  jumpBufferTime: 0.15
+  riseGravityScale: 2
+  fallGravityScale: 2.5
 --- !u!70 &1076891781
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

@@ -1,11 +1,7 @@
-// PHOEBE (1033478) & WILAYAT (1034162)
-// SCENEMANAGER.CS
-
 using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
 using System.Collections;
-using BunnyHop.Audio;
 
 namespace Events.SceneManager
 {
